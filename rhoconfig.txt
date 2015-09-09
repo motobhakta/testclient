@@ -93,9 +93,3 @@ use_bb_full_browser=6
 
 #Push.rhoconnect.pushServer = 'http://rhoconnectpush.herokuapp.com'
 #Push.rhoconnect.pushAppName = 'someappname'
-
-# Settings for cloud from build.yml
-moto-plugins="ALL"
-encrypt_database="1"
-android_title="0"
-
