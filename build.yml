@@ -1,4 +1,4 @@
-sdk: "~/GitHub/rhodes"
+#sdk: "~/GitHub/rhodes"
 sdkversion: 5.0.0
 name: testclient
 version: 1.0
@@ -30,11 +30,11 @@ wm:
 
 extensions: ["rhoconnect-client"]
 
-paths:
-  extensions:
-  - /Users/home/GitHub/Motorola-Extensions/extensions
-  - /Users/home/GitHub/Motorola-Extensions/lib/commonAPI
-  - /Users/home/GitHub/rhoconnect-client/ext
+#paths:
+#  extensions:
+#  - /Users/home/GitHub/Motorola-Extensions/extensions
+#  - /Users/home/GitHub/Motorola-Extensions/lib/commonAPI
+#  - /Users/home/GitHub/rhoconnect-client/ext
 app_type: rhoelements
 
-encrypt_database: 1
+encrypt_database: 0
