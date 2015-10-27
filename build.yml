@@ -37,4 +37,4 @@ extensions: ["rhoconnect-client"]
 #  - /Users/home/GitHub/rhoconnect-client/ext
 app_type: rhoelements
 
-encrypt_database: 0
+encrypt_database: 1
